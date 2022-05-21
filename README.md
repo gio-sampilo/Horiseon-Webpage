@@ -5,9 +5,8 @@
 *We were able to meet accessibility standards by adding "alt" attirbutes to each image, which will improve the search engine ranking and overall SEO. 
 *HTML and CSS were used in this project. 
 
-##
 
-
+*URL: https://gio-sampilo.github.io/Horiseon-Webpage/
 
 
 ![Home page](assets/images/Horiseon%20Capture.PNG)
